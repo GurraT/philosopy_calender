@@ -3,8 +3,28 @@
 }
 
 .image{
-    background-image: url("../img/schoolofathen.jpg");
+    background-image: url("../img/shoolofathen.jpg");
     background-size: cover;
-      height: 800px;
      opacity: 65%;
+     height: 600px;
+}
+
+#day1{
+    color: white;
+    position: fixed;
+    padding-left: 40%;
+    padding-top: 2%;
+    width:10px;
+}
+
+.day2{
+    color: white;
+    position: fixed;
+    padding-left: 15%;
+    padding-top: 15%;
+}
+
+.modal-content {
+    margin: 2px auto;
+    z-index: 1100 !important;
 }
