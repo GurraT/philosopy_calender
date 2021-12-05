@@ -1,0 +1,10 @@
+.title{
+    text-align: center;
+}
+
+.image{
+    background-image: url("../img/schoolofathen.jpg");
+    background-size: cover;
+      height: 800px;
+     opacity: 65%;
+}
